@@ -1,0 +1,41 @@
+.texto {
+background-color: black;
+align-items: center;
+
+
+
+
+
+
+}
+.texto h1 {
+    color:aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sla {
+    background-color: aqua;
+    align-items: center;
+    padding: 20px;
+    border-radius: 0;
+
+}
+
+.sla h2 {
+    color:rgb(252, 12, 12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.botao {
+    padding: 20px;
+    border-radius: 5px;
+    border-style: none;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
